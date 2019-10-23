@@ -10,9 +10,12 @@ public class RandomNumbersAndStrings {
 		int ranNum=ran.nextInt();
 		
 		System.out.println(ranNum);
-		 System.out.println(ran.nextDouble());
-		 System.out.println(ran.nextFloat());
-		 System.out.println(ran.nextBoolean());
+		System.out.println(ran.nextDouble());
+		System.out.println(ran.nextFloat());
+		System.out.println(ran.nextBoolean());
+		
+		
+		
 
 	}
 
