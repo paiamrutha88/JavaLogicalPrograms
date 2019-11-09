@@ -14,6 +14,7 @@ public class AddDigits {
 		}
 		
 		System.out.println("Sum of Digits : " +sum);
+		System.out.println("hello Jenkins");
 
 	}
 
