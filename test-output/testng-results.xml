@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25313" started-at="2019-12-04T04:47:18Z" finished-at="2019-12-04T04:47:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25313" started-at="2019-12-04T04:47:18Z" finished-at="2019-12-04T04:47:44Z">
+      <class name="InterviewQuestions.DateSelection">
+        <test-method status="PASS" signature="addStock()[pri:0, instance:InterviewQuestions.DateSelection@58651fd0]" name="addStock" duration-ms="25292" started-at="2019-12-04T04:47:18Z" finished-at="2019-12-04T04:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStock -->
+      </class> <!-- InterviewQuestions.DateSelection -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
