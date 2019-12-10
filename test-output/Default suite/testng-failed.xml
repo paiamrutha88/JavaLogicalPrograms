@@ -5,7 +5,7 @@
     <classes>
       <class name="InterviewQuestions.DateSelection">
         <methods>
-          <include name="addStock"/>
+          <include name="createPortfolio"/>
         </methods>
       </class> <!-- InterviewQuestions.DateSelection -->
     </classes>
